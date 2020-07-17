@@ -1,9 +1,10 @@
 //feetToMile. work-1
 
 function feetToMile(feet){
-    var mile = feet * 0.00018939;
+    var mile = feet * 0.000189394;
     return mile;
 }
+
 //woodCalculator. work-2
 
 function woodCalculator(chair, table, bed){
@@ -29,7 +30,6 @@ function woodCalculator(chair, table, bed){
       var brick = floor * 10000;
     }
       
-
      return brick;
   }
   
