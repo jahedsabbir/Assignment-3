@@ -45,5 +45,5 @@ function tinyFriend(smallName){
       shortest = smallName[i];
     }
   }
-  return shortest
+  return shortest;
 }
